@@ -1,0 +1,6 @@
+# idea
+.idea
+
+build
+dist
+src/inck.egg-info
