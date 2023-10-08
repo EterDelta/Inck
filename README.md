@@ -1,7 +1,7 @@
 # Inck
 
 
-![Python](https://img.shields.io/badge/python->=3.6-green.svg?style=flat-square)
+![Language](https://img.shields.io/badge/language-Python%203.6-9B599A.svg?style=flat-square)
 ![GitHub license](https://img.shields.io/github/license/EterDelta/Inck?style=flat-square)
 
 Inck is a simple Python CLI tool to encode and decode data from images using LSB and MSB steganography.
