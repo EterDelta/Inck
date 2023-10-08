@@ -11,6 +11,7 @@ setup(
     long_description=long_description,
     author='EterDelta',
     license='MIT',
+    url='https://github.com/EterDelta/Inck',
     package_dir={'': 'src'},
     packages=[
         'inck'
